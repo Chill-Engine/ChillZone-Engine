@@ -14,7 +14,8 @@ For now it's have own custom status and details and that's all.
 - [ ] Add more icons.
 - [ ] Make ~~something like~~ server.
 - [ ] Add something new in this list.
-- [ ] Make translation on Russian and English { Somehow i translated some code, but i need to make ask script and translate fully on Russian (sorry for translating fully on russian.) }
+- [ ] Make translation on Russian and English 
+      ###### { Somehow i translated some code, but i need to make ask script and translate fully on Russian (sorry for translating fully on russian.) }
 
 <br><br>
 ## Versions
