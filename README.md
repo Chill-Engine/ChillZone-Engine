@@ -9,7 +9,7 @@ For now it's have own custom status and details and that's all.
 <br><br>
 ## Q&A
 Q: I found some bugs or glitches, where i can tell you?  
-A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issuses-repo)** and add in title [CHILLZONE]. Not here.  
+A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issuses-repo)** and add in start of title [CHILLZONE]. Not here.  
 
 <br><br>
 ## To-Do list
