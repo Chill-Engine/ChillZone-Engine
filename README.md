@@ -27,5 +27,6 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 #### 1.2b - What new?
 1. Added __Custom details and status__
 2. Some fixes in this application.
+3. Somehow i partically translated code on russian (halp meeeeh!!)
 
 <br><br>

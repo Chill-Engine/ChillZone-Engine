@@ -34,7 +34,7 @@ logfirst.close()
 # print("[~] Started logging at {date:%H:%M:%S}".format(date=datetime.datetime.now()))
 
 def debugHelp():
-    print("[!] If you need help debugging, please visit github.com/maxicc/inkcord or join discord.gg/keErGbZ")
+    print("[!] If you need help debugging, please visit - or join -")
 
 def addLog(level,message):
     """

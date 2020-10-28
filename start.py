@@ -58,7 +58,7 @@ def setStatus(silent, large, small, ltext, stext, details, state):
 
 def help():
     print(p.info + "chill         ---  Лобби приложения.                                      ")
-    print(p.info + "chillZone.jam ---  Комманда для информации о следующих или данных евентов.")
+    print(p.info + "chiZone.jam   ---  Комманда для информации о следующих или данных евентов.")
     print(p.info + "private       ---  Приватная группа.                                      ")
     print(p.info + "help          ---  Список комманд.                                        ")
 
@@ -81,7 +81,7 @@ def menu():
                   p.info + "Число участников: " + privnm)
             rpc.update(large_image="privaaaat", small_image="lock", large_text=c.ver + " | " + c.vern, small_text="Group",
                        details="Private group", state=priv, party_size=[1, int(privnm)], start=int(time.time()))
-        elif opt.startswith("chillZone.jam"):
+        elif opt.startswith("chiZone.jam"):
             print(p.warn + "В данный момент не работает!")
         elif opt.startswith("devMenu.login"):
             print(p.info + "В данный момент не работает!")
