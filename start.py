@@ -29,13 +29,13 @@ aal("LOD", "If you ever need to debug something, please send this log to https:/
 try:
     open(".nocol", "r")  # If we can open .nocol, it must exist
     from mansi import nocolours as p  # Import the disabled colour scheme
-    aal("INF", "Отключены цвета терминала")  # Output info to log
+    aal("INF", "Disable terminal color")  # Output info to log
 except:
     from mansi import colours as p  # Import the enabled colour scheme
-    aal("INF", "Включены цвета терминала")  # Output info to log
+    aal("INF", "Enable terminal color")  # Output info to log
 
 
-# Open an RPC connection with the Splatoon 2 client ID
+
 rpc = pypr.Presence(c.client)
 rpc.connect()
 
