@@ -71,6 +71,9 @@ def menu():
         if opt.startswith("chill"):
             setStatus(0, "chillmodee", "chill", c.ver + "|" +
                       c.vern, "Chill", "Chill Lobby", "Chill_SV#1")
+        elif opt.startswith("lobby"):
+            setStatus(1, "chill_zone", "menu", c.ver + "|" + c.vern,
+              "Menu", "In lobby", "Chill_SV#1")
         elif opt.startswith("private"):
             priv = (input(p.ask + "Название приватной группы: "))
             privnm = (input(p.ask + "Количество юзеров в группе: "))
@@ -79,7 +82,7 @@ def menu():
                 menu()
             print(p.info + "Название группы: " + priv + "\n" +
                   p.info + "Число участников: " + privnm)
-            rpc.update(large_image="privaaaat", small_image="lock", large_text=c.ver + " | " + c.vern, small_text="Group",
+            rpc.update(large_image="chill_zone", small_image="lock", large_text=c.ver + " | " + c.vern, small_text="Group",
                        details="Private group", state=priv, party_size=[1, int(privnm)], start=int(time.time()))
         elif opt.startswith("chiZone.jam"):
             print(p.warn + "В данный момент не работает!")
