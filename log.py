@@ -34,7 +34,7 @@ logfirst.close()
 # print("[~] Started logging at {date:%H:%M:%S}".format(date=datetime.datetime.now()))
 
 def debugHelp():
-    print("[!] If you need help debugging, please visit - or join -")
+    print("[!] If you need help debugging, please visit https://git.io/nsissuse or join https://discord.gg/yTxrCGR")
 
 def addLog(level,message):
     """
