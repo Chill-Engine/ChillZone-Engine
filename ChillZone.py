@@ -56,25 +56,48 @@ def setStatus(silent, large, small, ltext, stext, details, state):
             str(ltext) + ", " + str(stext) + ", " + str(details) + ", " + str(state))  #  Output presence to log
 
 
-def help():
-    print(p.info + "chill         ---  Лобби приложения.                                      ")
-    print(p.info + "chiZone.jam   ---  Комманда для информации о следующих или данных евентов.")
-    print(p.info + "private       ---  Приватная группа.                                      ")
-    print(p.info + "help          ---  Список комманд.                                        ")
+def info():
+    print(p.info + " ChillZone App v" + c.ver + " | Made by Nick Salt ")
+    print(p.info + " Original code [INKCORD] by M4xic [https://github.com/m4xic] ")
+    if c.ver != gitver:
+        print(p.info + " Needs update?: Yes")
+    if c.ver == gitver:
+        print(p.info + " Needs update?: No")
 
+def eastereggs(eggname, code):
+    if eggname == "Starship" and code == "1231":
+        print("YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE")
+    pass
+
+def help():
+    print(p.info + "--------------------------------------------------------------------------")
+    print(p.info + "lobby         ---  Лобби приложения (Default).                            ")
+    print(p.info + "chill         ---  Лобби приложения (Server Lobby).                       ")
+    print(p.info + "chillZone.jam ---  Комманда для информации о следующих или данных евентов.")
+    print(p.info + "private       ---  Приватная группа.                                      ")
+    print(p.info + "check         ---  Проверить связь с сервером.                            ")
+    print(p.info + "help          ---  Список комманд.                                        ")
+    print(p.info + "info          ---  Информация о программе.                                ")
+    print(p.info + "--------------------------------------------------------------------------")
 
 def menu():
     setStatus(1, "chill_zone", "menu", c.ver + "|" + c.vern,
               "Menu", "In lobby", "Chill_SV#1")  # Default presence
+
     while True:
         opt = input(p.cmd)
-        if opt.startswith("chill"):
+##        if opt.startswith("chill"):
+        if opt == ("chill"):
             setStatus(0, "chillmodee", "chill", c.ver + "|" +
                       c.vern, "Chill", "Chill Lobby", "Chill_SV#1")
-        elif opt.startswith("lobby"):
-            setStatus(1, "chill_zone", "menu", c.ver + "|" + c.vern,
+
+
+        elif opt == ("lobby"):
+            setStatus(0, "chill_zone", "menu", c.ver + "|" + c.vern,
               "Menu", "In lobby", "Chill_SV#1")
-        elif opt.startswith("private"):
+
+
+        elif opt == ("private"):
             priv = (input(p.ask + "Название приватной группы: "))
             privnm = (input(p.ask + "Количество юзеров в группе: "))
             if int(privnm) <= 2:
@@ -84,18 +107,33 @@ def menu():
                   p.info + "Число участников: " + privnm)
             rpc.update(large_image="chill_zone", small_image="lock", large_text=c.ver + " | " + c.vern, small_text="Group",
                        details="Private group", state=priv, party_size=[1, int(privnm)], start=int(time.time()))
-        elif opt.startswith("chiZone.jam"):
+
+
+        elif opt == ("chillZone.jam"):
             print(p.warn + "В данный момент не работает!")
-        elif opt.startswith("devMenu.login"):
+
+
+        elif opt == ("devMenu.login"):
             print(p.info + "В данный момент не работает!")
-        elif opt.startswith("help"):
+
+
+        elif opt == ("help"):
             help()
+
+
+        elif opt == ("info"):
+            info()
+
+        elif opt == ("starship"+"1231"):
+            eastereggs("Starship", "1231")
+
         elif opt == "exit":
             print(p.success + "Выходим...")
             aal("INF", "Exited via command with status code 0")
             sys.exit(0)
         else:
             print(p.warn + "That's not a valid command! Try again.")
+
 
 
 print(p.smile + "Добро пожаловать в ChillZone v" + c.ver + "!")
