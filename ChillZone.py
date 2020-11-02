@@ -124,13 +124,17 @@ def menu():
         elif opt == ("info"):
             info()
 
+
         elif opt == ("starship"+"1231"):
             eastereggs("Starship", "1231")
+
 
         elif opt == "exit":
             print(p.success + "Выходим...")
             aal("INF", "Exited via command with status code 0")
             sys.exit(0)
+
+            
         else:
             print(p.warn + "That's not a valid command! Try again.")
 
@@ -142,7 +146,7 @@ gitver = str(requests.get(
 offwebsiten = "NickSaltFoxu Repo"
 if c.ver != gitver:
     print(p.warn + "У вас устаревшая версия программы! В данный момент актуальна версия на " +
-          offwebsiten + " = " + gitver + ". Обновите её здесь https://git.io/nsissuse!")
+          offwebsiten + " = " + gitver + ". Обновите её здесь https://github.com/BlueBerrySans365/chill-zone-DRPC!")
 else:
     print(p.success + "У вас актуальная версия программы. Спасибо что используете ChillZoneRPC!")
 print(p.warn + "Questions, comments, rants? Head to https://git.io/nsissuse or https://discord.gg/yTxrCGR!")
