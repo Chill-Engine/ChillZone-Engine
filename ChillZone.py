@@ -143,7 +143,7 @@ def menu():
 print(p.smile + "Добро пожаловать в ChillZone v" + c.ver + "!")
 gitver = str(requests.get(
     "https://nicksaltfoxu.ml/versions/ChillZoneRPC/version").text[:4])
-offwebsiten = "NickSaltFoxu Repo"
+offwebsiten = "NickSaltFoxu Repos"
 if c.ver != gitver:
     print(p.warn + "У вас устаревшая версия программы! В данный момент актуальна версия на " +
           offwebsiten + " = " + gitver + ". Обновите её здесь https://github.com/BlueBerrySans365/chill-zone-DRPC!")
