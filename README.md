@@ -12,6 +12,10 @@ For Example:<br><br>
 ## Q&A
 Q: I found some bugs or glitches, where i can tell you?  
 A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issuses-repo)** and add in start of title [CHILLZONE]. Not here.  
+<br>
+
+Q: Where i can get Unity version of Chill Zone?
+A: From [Gamejolt](https://gamejolt.com/games/chillzone/555843) page or here (Only Nightly versions)
 
 <br><br>
 ## To-Do list
