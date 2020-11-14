@@ -24,6 +24,12 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 - [ ] Add something new in this list.
 - [ ] Make translation on Russian and English  
      - { Somehow i translated some code, but i need to make ask script at start and make translate fully on Russian and fully on English (Sorry for translating just fully on russian.) }
+     
+<br>
+
+### Unity Edition
+- [ ] Create first version
+- [ ] Add something new in this list
 
 <br><br>
 ## Versions
