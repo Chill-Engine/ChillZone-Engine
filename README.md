@@ -18,7 +18,7 @@ Q: Where i can get Unity version of Chill Zone?
 A: From **[Gamejolt](https://gamejolt.com/games/chillzone/555843)** page or here (Only Nightly versions).  
 <br>
 
-Q: Will Unity version of application be open source? 
+Q: Will Unity version of application be open source?   
 A: Nope. :D
 
 <br><br>
