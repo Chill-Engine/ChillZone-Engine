@@ -45,7 +45,7 @@ Currently versions:
 <br>
 
 ------  
-- **Python** = 1.2b <br>
+- **Python** = 1.2b | BETA VERSION <br>
 - **Unity** = none
 ------  
 
