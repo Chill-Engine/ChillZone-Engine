@@ -1,10 +1,12 @@
-# 𝓒𝓱𝓲𝓵𝓵 𝓩𝓸𝓷𝓮 - Python application for Dicord Rich Presence
+# 𝓒𝓱𝓲𝓵𝓵 𝓩𝓸𝓷𝓮 - Application for Dicord Rich Presence
 
 <br><br>
 ## Info 
 This application like game, but it's not game.  
 It's show's in what do you playing right now in your **Discord** profile.  
 For now it's have own custom status and details and that's all.  
+For Example:<br>
+![](https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/DiscordPTB_6814HX123x.png)
 
 <br><br>
 ## Q&A
