@@ -5,7 +5,7 @@
 This application like game, but it's not game.  
 It's show's in what do you playing right now in your **Discord** profile.  
 For now it's have own custom status and details and that's all.  
-For Example:<br>
+For Example:<br><br>
 ![](https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/DiscordPTB_6814HX123x.png)
 
 <br><br>
