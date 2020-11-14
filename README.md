@@ -15,7 +15,11 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 <br>
 
 Q: Where i can get Unity version of Chill Zone?  
-A: From **[Gamejolt](https://gamejolt.com/games/chillzone/555843)** page or here (Only Nightly versions).
+A: From **[Gamejolt](https://gamejolt.com/games/chillzone/555843)** page or here (Only Nightly versions).  
+<br>
+
+Q: Will be Unity version open source?  
+A: Nope. :D
 
 <br><br>
 ## To-Do list
