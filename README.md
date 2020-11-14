@@ -16,6 +16,7 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 <br><br>
 ## To-Do list
 
+### Python Edition
 - [x] Custom details and status (Not supports custom arts).
 - [ ] Invites with spectating.
 - [ ] Add more icons.
