@@ -27,17 +27,16 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 
 <br><br>
 ## Versions
-
+Currently versions:
 <br>
 
 ------  
-
 - **Python** = 1.2b <br>
 - **Unity** = none
-
 ------  
 
 <br>
+
 ### Python Edition
 #### 1.2b - What new?
 1. Added __Custom details and status__
