@@ -4,7 +4,10 @@
 ## Info 
 This application like game, but it's not game.  
 It's show's in what do you playing right now in your **Discord** profile.  
-For now it's have own custom status and details and that's all.  
+This function named in **Discord** like [***Rich Presence***](https://discord.com/developers/docs/rich-presence/how-to).  
+(For real, i still can't understand how to use it in Unity)  
+  
+For now this version have own custom status and details and that's all.  
 For Example:<br><br>
 ![](https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/DiscordPTB_6814HX123x.png)
 
