@@ -1,7 +1,11 @@
 # 𝓒𝓱𝓲𝓵𝓵 𝓩𝓸𝓷𝓮 - Application for Dicord Rich Presence
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
-
 <br><br>
+
+## Archived!
+So... I archived this repository because of **dead end**. Yeah, i stopped updating this version (Unity version will not be cancelled)Ъ
+If you want to download remastered version made from nothing. Here you go. [ReZoneD](https://github.com/BlueBerrySans365/ReZoneD)
+
 ## Info 
 This application like game, but it's not game.  
 It's show's in what do you playing right now in your **Discord** profile.  
