@@ -1,10 +1,9 @@
-# 𝓒𝓱𝓲𝓵𝓵 𝓩𝓸𝓷𝓮 - Application for Dicord Rich Presence
+# ChillZone Engine - Application for Dicord Rich Presence
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 <br><br>
 
-## Archived!
-So... I archived this repository because of **dead end**. Yeah, i stopped updating this version (Unity version will not be cancelled)Ъ
-If you want to download remastered version made from nothing. Here you go. [ReZoneD](https://github.com/BlueBerrySans365/ReZoneD)
+## UnArchived!
+From now i resuming work on this repo, but now it's ChillZone Engine :D
 
 ## Info 
 This application like game, but it's not game.  
@@ -22,17 +21,13 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 <br>
 
 Q: Where i can get Unity version of Chill Zone?  
-A: From **[Gamejolt](https://gamejolt.com/games/chillzone/555843)** page or here (Only Nightly versions).  
-<br>
-
-Q: Will Unity version of application be open source?   
-A: Nope. :D
+A: From now, no.
 
 <br><br>
 ## To-Do list
 
 ### Python Edition
-- [x] Custom details and status (Not supports custom arts).
+- [x] Custom details and status.
 - [ ] Invites with spectating.
 - [ ] Add more icons.
 - [ ] Make ~~something like~~ server.
@@ -40,12 +35,6 @@ A: Nope. :D
 - [ ] Make translation on Russian and English  
      - { Somehow i translated some code, but i need to make ask script at start and make translate fully on Russian and fully on English (Sorry for translating just fully on russian.) }
      
-<br>
-
-### Unity Edition
-- [ ] Create first version
-- [ ] Add something new in this list
-
 <br><br>
 ## Versions
 Currently versions:
@@ -53,7 +42,6 @@ Currently versions:
 
 ------  
 - **Python** = 1.2b | BETA VERSION <br>
-- **Unity** = none
 ------  
 
 <br>
