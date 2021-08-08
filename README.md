@@ -27,13 +27,9 @@ A: From now, no.
 ## To-Do list
 
 ### Python Edition
-- [x] Custom details and status.
+- [x] Custom details and status. (Now fully)
 - [ ] Invites with spectating.
-- [ ] Add more icons.
-- [ ] Make ~~something like~~ server.
-- [ ] Add something new in this list.
-- [ ] Make translation on Russian and English  
-     - { Somehow i translated some code, but i need to make ask script at start and make translate fully on Russian and fully on English (Sorry for translating just fully on russian.) }
+- [ ] Something like server.
      
 <br><br>
 ## Versions
