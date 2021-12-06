@@ -1,4 +1,5 @@
-<p align="center"><a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"> <img align="middle" src="https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/rerert.png" style="width:530px;height:305px;"></a></p>
+<p align="center"><a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"> <img align="middle" src="https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/rerert.png"></a></p>
+<!--style="width:530px;height:305px;"-->
 
 <!-- ![](https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/rerert.png) -->
 # ChillZone Engine - Application for Dicord Rich Presence
