@@ -21,15 +21,14 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 <br>
 
 Q: Where i can get Unity version of Chill Zone?  
-A: From now, no.
+A: From now, nowhere.
 
 <br><br>
 ## To-Do list
 
 ### Python Edition
-- [x] Custom details and status. (Now fully)
-- [ ] Invites with spectating.
-- [ ] Something like server.
+- [ ] Custom details and status. 
+- [ ] Something like server client server.
      
 <br><br>
 ## Versions
@@ -44,8 +43,6 @@ Currently versions:
 
 ### Python Edition
 #### 1.2b - What new?
-1. Added __Custom details and status__
-2. Some fixes in this application.
-3. Somehow i partically translated code on russian (halp meeeeh!!)
+1. Recoded with python 3.10
 
 <br><br>
