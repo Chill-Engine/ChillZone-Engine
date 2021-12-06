@@ -73,12 +73,12 @@ def info():
 
 def help():
     print("--------------------------------------------------------------------------")
-    print("lobby         ---  Лобби приложения (Default).                            ")
-    print("chill         ---  Лобби приложения (Server Lobby).                       ")
-    print("private       ---  Приватная группа.                                      ")
-    print("check         ---  Проверить связь с сервером.                            ")
-    print("help          ---  Список комманд.                                        ")
-    print("info          ---  Информация о программе.                                ")
+    print("lobby         ---  Presence lobby (Default).                              ")
+    print("chill         ---  Presence lobby (Server Lobby).                         ")
+    print("addons        ---  Application addons.                                    ")
+    print("check         ---  Check connection with server.                          ")
+    print("help          ---  Commmand list.                                         ")
+    print("info          ---  Application information.                               ")
     print("--------------------------------------------------------------------------")
 
 def menu():
@@ -121,7 +121,7 @@ match UpdateStatus:
         print(f"You have old version of app! Update it here {updi['chillengine']['link']}!")
 
 
-print("Questions, comments, rants? Head to https://git.io/nsissuse or https://discord.gg/yTxrCGR!\n")
+print("Questions, comments, rants? Head to https://git.io/nsissuse\n")
 
 
 try:
