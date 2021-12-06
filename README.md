@@ -1,3 +1,6 @@
+<p align="center"> <img align="middle" src="https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/rerert.png" style="width:530px;height:305px;"></p>
+
+<!-- ![](https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/rerert.png) -->
 # ChillZone Engine - Application for Dicord Rich Presence
 [![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
 <br><br>
