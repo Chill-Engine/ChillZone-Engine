@@ -19,7 +19,7 @@ For Example:<br><br>
 
 <br><br>
 ## Q&A
-Q: I found some bugs or glitches, where i can tell you?  
+Q: I found some bugs or glitches, where i can tell you about them?  
 A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issuses-repo)** and add in start of title [CHILLZONE]. Not here.  
 <br>
 
