@@ -5,6 +5,7 @@ import sys
 import datetime
 import json
 import requests
+from modules import SFX
 
 from data.logsystem import addLog, debugHelp
 clear = lambda: os.system('cls')
@@ -40,6 +41,12 @@ addLog("LOD", "If you ever need to debug something, please send this log to http
 with open('config.json') as json_file:
     config = json.load(json_file)
 
+match config['modules']['SFXAudio']:
+    case True:
+        SFX.playsound("startup.mp3")
+    case False:
+        pass
+
 try:
     rpc = pr.Presence(config['appID'])
     rpc.connect()
@@ -71,11 +78,41 @@ def info():
     if UpdateStatus == False:
         print("Needs update?: No")
 
+def moduleMenu():
+    AsK=input("? > (y/n) ")
+    match AsK:
+        case "y":
+            print("yeah")
+            idk = {
+                "username": f"{config['username']}",
+                "appID": f"{config['appID']}",
+                "modules":{
+                    "SFXAudio": True
+                }
+            }
+            json_object = json.dumps(idk)
+            writeBlet = open("config.json", "w+")
+            writeBlet.write(json_object)
+            writeBlet.close()
+        case _:
+            idk = {
+                "username": f"{config['username']}",
+                "appID": f"{config['appIDW']}",
+                "modules":{
+                    "SFXAudio": False
+                }
+            }
+            json_object = json.dumps(idk)
+            writeBlet = open("config.json", "w+")
+            writeBlet.write(json_object)
+            writeBlet.close()
+
+
 def help():
     print("--------------------------------------------------------------------------")
     print("lobby         ---  Presence lobby (Default).                              ")
     print("chill         ---  Presence lobby (Server Lobby).                         ")
-    print("addons        ---  Application addons.                                    ")
+    print("addons        ---  Application addons. (!UNSTABLE!)                       ")
     print("check         ---  Check connection with server.                          ")
     print("help          ---  Commmand list.                                         ")
     print("info          ---  Application information.                               ")
@@ -98,6 +135,8 @@ def menu():
             case "help":
                 help()
 
+            case "module":
+                moduleMenu()
 
             case "info":
                 info()

@@ -25,7 +25,10 @@ try:
         
         data = {
             "username": f"{username}",
-            "appID": f"{appIDW}"
+            "appID": f"{appIDW}",
+            "modules":{
+                "SFXAudio": False
+            }
         }
         json_object = json.dumps(data)
 
