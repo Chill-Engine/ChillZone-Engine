@@ -49,7 +49,7 @@ Currently versions:
 <br>
 
 ### Python Edition
-#### 1.2b - What new?
+#### 1.3b - What new?
 1. Recoded with python 3.10.
 2. Added example SFX module.
 
