@@ -19,7 +19,7 @@ For Example:<br><br>
 ![](https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/DiscordPTB_6814HX123x.png)
 
   
-You don't need to install it, just download.  
+You don't need to install it, just download. (can be portable)
 And yes, it works in command prompt. Why not?
 <br><br>
 ## Q&A
