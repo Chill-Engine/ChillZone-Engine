@@ -18,6 +18,9 @@ This function named in **Discord** like [***Rich Presence***](https://discord.co
 For Example:<br><br>
 ![](https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/DiscordPTB_6814HX123x.png)
 
+  
+You don't need to install it, just download.  
+And yes, it works in command prompt. Why not?
 <br><br>
 ## Q&A
 Q: I found some bugs or glitches, where i can tell you about them?  
