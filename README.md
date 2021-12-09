@@ -28,8 +28,11 @@ A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issu
 <br>
 
 Q: Where i can get Unity version of Chill Zone?  
-A: From now, nowhere.
-
+A: From now, nowhere.  
+  
+Q: Where i can get nickname and password for debug?  
+A: From example. (rlly nick?)  
+  
 <br><br>
 ## To-Do list
 
@@ -43,7 +46,7 @@ Currently versions:
 <br>
 
 ------  
-- **Python** = 1.2b | BETA VERSION <br>
+- **Python** = 1.3b | BETA VERSION <br>
 ------  
 
 <br>
