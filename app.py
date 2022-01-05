@@ -12,7 +12,7 @@ clear = lambda: os.system('cls')
 
 # Начальная инфа... Да, я серьезно ._.
 
-AppVersion = "notSoReadyy" 
+AppVersion = "soonReadyy" 
 AppBranch = "Beta"
 versionURL = "https://nicksaltfoxu.ml/versions/ChillZoneRPC/beta.json"
 
