@@ -1,8 +1,11 @@
 <p align="center"><a href="https://github.com/BlueBerrySans365/chill-zone-DRPC"> <img align="middle" src="https://github.com/BlueBerrySans365/chill-zone-DRPC/blob/master/assets/rerert.png"></a></p>
-<!--style="width:530px;height:305px;"-->
-------
-[![Build](https://github.com/BlueBerrySans365/ChillZone-Engine/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/BlueBerrySans365/ChillZone-Engine/)
-[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)
+<!--style="width:530px;height:305px;"-->  
+
+
+-------------
+
+
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)    [![Build](https://github.com/BlueBerrySans365/ChillZone-Engine/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/BlueBerrySans365/ChillZone-Engine/)
 
 <br><br>
 
