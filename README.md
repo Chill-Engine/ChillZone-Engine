@@ -45,7 +45,7 @@ A: From example. (rlly nick?)
 
 ### Python Edition
 - [ ] Custom details and status. 
-- [ ] Something like server client server.
+- [ ] Something like server-client server.
      
 <br><br>
 ## Versions
