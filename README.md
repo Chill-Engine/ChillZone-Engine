@@ -29,11 +29,9 @@ For Example:<br><br>
 You don't need to install it, just download. (can be portable)
 And yes, it works in command prompt. Why not?
 <br><br>
-## Q&A
-Q: I found some bugs or glitches, where i can tell you about them?  
-A: Please add issue in **[This repo](https://github.com/BlueBerrySans365/ns-issuses-repo)** and add in start of title [CHILLZONE]. Not here.  
+## Q&A 
 <br>
-
+  
 Q: Where i can get Unity version of Chill Zone?  
 A: From now, nowhere.  
   
