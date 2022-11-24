@@ -5,7 +5,7 @@
 -------------
 
 
-[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)    [![Build](https://github.com/BlueBerrySans365/ChillZone-Engine/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/BlueBerrySans365/ChillZone-Engine/)    [![Crowdin](https://badges.crowdin.net/chillzonerpc-beta/localized.svg)](https://crowdin.com/project/chillzonerpc-beta)
+[![pypresence](https://img.shields.io/badge/using-pypresence-00bb88.svg?style=for-the-badge&logo=discord&logoWidth=20)](https://github.com/qwertyquerty/pypresence)    <!-- [![Build](https://github.com/BlueBerrySans365/ChillZone-Engine/actions/workflows/python-app.yml/badge.svg?branch=master)](https://github.com/BlueBerrySans365/ChillZone-Engine/) -->    [![Crowdin](https://badges.crowdin.net/chillzonerpc-beta/localized.svg)](https://crowdin.com/project/chillzonerpc-beta)
 
 <br><br>
 
